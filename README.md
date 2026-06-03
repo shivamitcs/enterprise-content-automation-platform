@@ -10,11 +10,19 @@
 
 Enterprise-grade AI-powered content automation platform engineered for intelligent content generation, approval workflows, image orchestration, multilingual publishing, and automated distribution across LinkedIn, Instagram, and Blog ecosystems.
 
+### Core Integrations
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Automation-blue)
+![Instagram](https://img.shields.io/badge/Instagram-Automation-purple)
+![Blog](https://img.shields.io/badge/Blog-Automation-green)
+![Google Drive](https://img.shields.io/badge/Google%20Drive-Asset%20Management-success)
+![Telegram](https://img.shields.io/badge/Telegram-Approval%20Workflow-blue)
+
 ---
 
 <p align="center">
   <img
-    src="./assets/branding/platform-banner.png"
+    src="./assets/branding/content-intelligence-platform-banner.png"
     width="100%"
     alt="Enterprise Content Automation Platform"
   />
@@ -75,6 +83,34 @@ This enables organizations to publish content faster while maintaining consisten
 * Multilingual Content Support
 * Event-Driven Workflow Architecture
 * Scalable Automation Infrastructure
+
+---
+
+# Platform Metrics
+
+| Metric | Value |
+|----------|----------|
+| Automation Engines | 6 |
+| Distribution Channels | 3 |
+| Approval Workflow | Telegram-Based |
+| AI Provider | Google Gemini |
+| Asset Sources | AI + Google Drive |
+| Publishing Targets | LinkedIn, Instagram, Blog |
+| Workflow Engine | n8n |
+| Content Types | Posts, Captions, Blogs, Images |
+
+---
+
+## Automation Portfolio
+
+| Engine | Purpose |
+|----------|----------|
+| LinkedIn AI Content Engine | AI content + AI image publishing |
+| LinkedIn Drive Content Engine | Drive assets + AI publishing |
+| Instagram AI Content Engine | AI captions + AI images |
+| Instagram Drive Content Engine | Drive assets + Instagram publishing |
+| AI Blog Generation Engine | AI blog + AI images |
+| Blog Drive Media Engine | Drive media + blog publishing |
 
 ---
 
