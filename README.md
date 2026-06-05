@@ -1,4 +1,4 @@
-# 🚀 Enterprise Content Automation Platform
+# Enterprise Content Automation Platform
 
 ![n8n](https://img.shields.io/badge/n8n-Workflow%20Automation-orange)
 ![Gemini AI](https://img.shields.io/badge/Gemini-AI-blue)
@@ -22,9 +22,7 @@ Enterprise-grade AI-powered content automation platform engineered for intellige
 
 <p align="center">
   <img
-    src="./assets/branding/content-intelligence-platform-banner.png"
-    width="100%"
-    alt="Enterprise Content Automation Platform"
+    src="./assets/branding/content-intelligence-platform-banner.png" width="100%" alt="Enterprise Content Automation Platform"
   />
 </p>
 
@@ -166,7 +164,7 @@ Publishes content using Google Drive managed creative assets and AI-generated ca
 * AI captions
 * Automated publishing
 * Workflow orchestration
-
+  
 ---
 
 ## AI Blog Generation Engine
