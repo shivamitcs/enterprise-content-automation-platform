@@ -38,6 +38,20 @@ Designed for scalable content operations, the platform combines AI intelligence,
 
 ---
 
+# Why I Built This
+
+Content operations are often fragmented across multiple tools,
+manual approval processes, and disconnected publishing channels.
+
+This project was created to demonstrate how AI-powered automation,
+workflow orchestration, and event-driven architecture can be combined
+into a unified enterprise content operations platform.
+
+The goal was to reduce manual effort, improve governance,
+and enable scalable multichannel publishing.
+
+---
+
 # Business Problem
 
 Content teams often struggle with:
@@ -250,6 +264,32 @@ Combines Google Drive media assets with AI-generated blog content for automated 
 
 ---
 
+# Architecture Decisions
+
+### Why n8n
+
+- Event-driven workflow orchestration
+- Rapid automation development
+- Extensible integration ecosystem
+
+### Why Gemini
+
+- High-quality content generation
+- Long-form content capabilities
+- Multilingual support
+
+### Why Telegram
+
+- Lightweight approval workflows
+- Real-time approval notifications
+
+### Why Google Drive
+
+- Centralized asset management
+- Simplified content operations
+
+---
+
 # Architecture Highlights
 
 - Event-driven workflow architecture
@@ -258,6 +298,28 @@ Combines Google Drive media assets with AI-generated blog content for automated 
 - Human-in-the-loop approval workflows
 - Scalable automation pipelines
 - Centralized asset management
+
+---
+
+# Engineering Challenges
+
+- Managing content approval states
+- Handling publishing failures
+- Coordinating multichannel workflows
+- Asset synchronization across channels
+- API rate limiting considerations
+- Workflow retry and recovery mechanisms
+
+---
+
+# Reliability Features
+
+- Approval Validation
+- Publishing Retry Mechanisms
+- Error Notifications
+- Workflow Monitoring
+- Failure Recovery Workflows
+- Audit-Friendly Approval Tracking
 
 ---
 
@@ -386,6 +448,17 @@ The platform enables organizations to:
 
 ---
 
+# Enterprise Capabilities
+
+- Human-In-The-Loop Approvals
+- Centralized Asset Management
+- Workflow Governance
+- Multi-Channel Publishing
+- Approval Traceability
+- Content Lifecycle Management
+
+---
+
 # Repository Structure
 
 ```txt
@@ -423,11 +496,19 @@ workflows/
 * Workflow Intelligence
 * Content Performance Monitoring
 
-### Phase 4
+Phase 4
 
 * Agentic AI Operations
 * Autonomous Publishing
 * Enterprise Content Intelligence
+
+### Planned Agents
+
+- Content Research Agent
+- Content Generation Agent
+- SEO Optimization Agent
+- Publishing Agent
+- Analytics Agent
 
 ---
 
